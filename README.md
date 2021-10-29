@@ -7,15 +7,15 @@
 5. [ADDITIONAL DOCUMENTATION](#additional-documentation)
 6. [VERSIONING](#versioning)
 
-## Project Title
+### Project Title
 
 *Hello World Sample* 
 
-## Description
+### Description
 
 Practice using GitHub by creating a sample repository. 
 
-## How to Run Program 
+### How to Run Program 
 
 
 ```text
@@ -27,7 +27,7 @@ Hello_World/
     │── examples.html
    
 ```
-## Files Used 
+### Files Used 
 
 - datafiles 
 - List filenames
@@ -38,9 +38,9 @@ Hello_World/
 [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
 
-## Additional Documentation
+### Additional Documentation
 
 No additional documentation at this time.  
 
 
-## Versioning
+### Versioning
